@@ -2,6 +2,7 @@
 
 ABOUT PROJECT
 Global Superstore is a global online retailer based in New York, boasting a broad product catalog and aiming to be a one-stop-shop for its customers. Global The superstore’s clientele, hailing from 147 different countries, can browse through an endless offering with more than 10,000 products. This large selection comprises three main categories: office supplies (e.g., staples), furniture (e.g., chairs), and technology (e.g., smartphones).
+
 You are contracted as a Data Analyst to help Global Superstore analyze and draw out meaningful insight from the Superstore dataset which would aid management in making informed decisions to improve performance and profitability.
 Using skills learnt from the data Bootcamp, apply your knowledge of:
 ● Power Query
@@ -10,8 +11,10 @@ Using skills learnt from the data Bootcamp, apply your knowledge of:
 ● Data Visualization
 ● Knowledge of generating actionable insights Etc.
 To analyze the dataset and provide answers to the questions listed below.
+
 Question 1.
 a) What are the three countries that generated the highest total profit for Global Superstore in 2014?
+
 The three countries that generated the highest total profit for Global Superstore in 2014:
 •United States: $94K
 •India: $49K
